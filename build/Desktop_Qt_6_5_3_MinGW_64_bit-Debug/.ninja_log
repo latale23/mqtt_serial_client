@@ -1,0 +1,24 @@
+# ninja log v6
+3	28	7556107823512829	CMakeFiles/clean.additional	adcc2f785672e3a3
+28	40	7556107823752827	clean	101d0f6048d5fe99
+3	561	7556115577647779	mqtt_serial_autogen/timestamp	8ed9d8a53b08d19f
+3	561	7556115577647779	mqtt_serial_autogen/mocs_compilation.cpp	8ed9d8a53b08d19f
+3	561	7556115577647779	D:/BaiduSyncdisk/Qt_Demo/mqtt_serial/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/mqtt_serial_autogen/timestamp	8ed9d8a53b08d19f
+3	561	7556115577647779	D:/BaiduSyncdisk/Qt_Demo/mqtt_serial/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/mqtt_serial_autogen/mocs_compilation.cpp	8ed9d8a53b08d19f
+581	2840	7556115578602588	CMakeFiles/mqtt_serial.dir/qmqttwork.cpp.obj	54a9b1f05a01fcde
+572	3377	7556115578499363	CMakeFiles/mqtt_serial.dir/main.cpp.obj	3b2c28b6eccb0486
+568	3416	7556115578469359	CMakeFiles/mqtt_serial.dir/mqtt_serial_autogen/mocs_compilation.cpp.obj	5da90e87caec6cb1
+577	3683	7556115578551301	CMakeFiles/mqtt_serial.dir/mainwindow.cpp.obj	54b21496e34ddd39
+3683	3911	7556115609616893	mqtt_serial.exe	850385f7c0c50123
+16	179	7556117780307662	mqtt_serial_autogen/timestamp	8ed9d8a53b08d19f
+16	179	7556117780307662	mqtt_serial_autogen/mocs_compilation.cpp	8ed9d8a53b08d19f
+16	179	7556117780307662	D:/BaiduSyncdisk/Qt_Demo/mqtt_serial/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/mqtt_serial_autogen/timestamp	8ed9d8a53b08d19f
+16	179	7556117780307662	D:/BaiduSyncdisk/Qt_Demo/mqtt_serial/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/mqtt_serial_autogen/mocs_compilation.cpp	8ed9d8a53b08d19f
+179	2949	7556117781943128	CMakeFiles/mqtt_serial.dir/mainwindow.cpp.obj	54b21496e34ddd39
+2949	3186	7556117809636183	mqtt_serial.exe	850385f7c0c50123
+11	156	7556118391949643	mqtt_serial_autogen/timestamp	8ed9d8a53b08d19f
+11	156	7556118391949643	mqtt_serial_autogen/mocs_compilation.cpp	8ed9d8a53b08d19f
+11	156	7556118391949643	D:/BaiduSyncdisk/Qt_Demo/mqtt_serial/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/mqtt_serial_autogen/timestamp	8ed9d8a53b08d19f
+11	156	7556118391949643	D:/BaiduSyncdisk/Qt_Demo/mqtt_serial/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/mqtt_serial_autogen/mocs_compilation.cpp	8ed9d8a53b08d19f
+156	3096	7556118393402180	CMakeFiles/mqtt_serial.dir/mainwindow.cpp.obj	54b21496e34ddd39
+3096	3342	7556118422795447	mqtt_serial.exe	850385f7c0c50123
